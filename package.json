@@ -11,10 +11,12 @@
   "dependencies": {
     "@fontsource/roboto": "^4.5.8",
     "@mui/icons-material": "^5.10.16",
+    "@reduxjs/toolkit": "^1.9.1",
     "daisyui": "^2.42.1",
     "next": "13.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
